@@ -4,7 +4,7 @@
 
 > **7 October 2026:** Airaavat-V2 completed its **first wireless ground trial**, driving under its own power through a radio link and firmware built during the week of 1–7 October.
 
-📹 **Ground-trial video:** [First wireless trial, 7 Oct 2026](https://drive.google.com/file/d/1QRCBFcqSwdifOWkJ_7g2vigKBfFnSC9H/view) · [Instagram @project_airaavat](https://instagram.com/project_airaavat)
+📹 **Ground-trial video:** [First wireless trial, 7 Oct 2026](https://drive.google.com/file/d/1QRCBFcqSwdifOWkJ_7g2vigKBfFnSC9H/view)
 <!-- Replace the line above with a direct link to the ground-trial reel or LinkedIn post. -->
 
 ⬅️ **Previous version:** [Airaavat-V1](https://github.com/AbheerParashar/Airaavat-V1)
