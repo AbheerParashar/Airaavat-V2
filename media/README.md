@@ -6,7 +6,7 @@ Suggested contents:
 | --- | --- |
 | `v2-ground-trial-2026-10-07.md` | https://www.instagram.com/reel/DeMhHxaPINf |
 | `v2-chassis-*.jpg` | Fabrication photos: drivetrain on the plywood, wheels fitted |
-| `v2-electronics-*.jpg` | TX and RX boards, wiring |
+| `v2-electronics-*.mp4` | TX and RX boards, wiring |
 | `v1-*.jpg` | Airaavat-V1 photos and earlier trial links |
 | `logbook-scans/` | Photos of key handwritten logbook pages: drawings, calculations, wiring sketches |
 
