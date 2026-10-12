@@ -162,7 +162,7 @@ Uncomment this section and add mentors and supporters who are happy to be credit
 
 ## 🤝 Connect
 
-· GitHub: [@AbheerParashar](https://github.com/AbheerParashar) · LinkedIn: [@Abheer Parashar](https://www.linkedin.com/in/abheer-parashar-752b9338a/)
+GitHub: [@AbheerParashar](https://github.com/AbheerParashar) · LinkedIn: [@Abheer Parashar](https://www.linkedin.com/in/abheer-parashar-752b9338a/)
 · Instagram: [@project_airaavat](https://instagram.com/project_airaavat)
 
 
