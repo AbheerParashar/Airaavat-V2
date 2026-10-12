@@ -1,6 +1,6 @@
 # 🐘 Project Airaavat — V2
 
-**A hardware-first Unmanned Ground Vehicle (UGV), rebuilt from Airaavat-V1. Designed, fabricated, wired and programmed by a diploma student (and his friend) at D.N. Polytechnic, Meerut, with no lab and no institutional funding.**
+**A hardware-first Unmanned Ground Vehicle (UGV), rebuilt from Airaavat-V1. Designed, fabricated, wired and programmed by a diploma student at D.N. Polytechnic, Meerut, with no lab and no institutional funding.**
 
 > **7 October 2026:** Airaavat-V2 completed its **first wireless ground trial**, driving under its own power through a radio link and firmware built during the week of 1–7 October.
 
@@ -151,9 +151,8 @@ Airaavat-V2/
 ## 👥 Team
 
 - **Abheer Parashar**: design, fabrication, electronics, firmware
-- **Chandan**: fabrication, wiring, 3S3P transmitter battery pack
 
-Diploma in Electrical Engineering, D.N. Polytechnic, Meerut.
+Diploma (1st-Year) in Electrical Engineering, D.N. Polytechnic, Meerut.
 
 <!--
 ## 🙏 Acknowledgements
@@ -162,7 +161,8 @@ Uncomment this section and add mentors and supporters who are happy to be credit
 
 ## 🤝 Connect
 
-GitHub: [@AbheerParashar](https://github.com/AbheerParashar) · Instagram: [@project_airaavat](https://instagram.com/project_airaavat)
-<!-- Add your LinkedIn profile link here. -->
+· GitHub: [@AbheerParashar](https://github.com/AbheerParashar) · LinkedIn: [@Abheer Parashar](https://www.linkedin.com/in/abheer-parashar-752b9338a/)
+· Instagram: [@project_airaavat](https://instagram.com/project_airaavat)
+
 
 > "Service before self." 🇮🇳
