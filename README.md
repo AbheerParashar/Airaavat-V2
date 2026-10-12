@@ -151,7 +151,7 @@ Airaavat-V2/
 ## 👥 Team
 
 - **Abheer Parashar**: design, fabrication, electronics, firmware
-- **Chandan**: fabrication, wiring, 3S3P transmitter battery pack
+- **Chandan Gupta**: fabrication, wiring, 3S3P transmitter battery pack
 
 Diploma (1st-Year) in Electrical Engineering, D.N. Polytechnic, Meerut.
 
