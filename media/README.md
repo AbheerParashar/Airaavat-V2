@@ -1,6 +1,6 @@
 # 📸 Media
 
-| File / folder | What to put here |
+| File / folder | Links to the media |
 | --- | --- |
 | `v2-ground-trial-2026-10-07.md` | https://drive.google.com/file/d/1QRCBFcqSwdifOWkJ_7g2vigKBfFnSC9H/view |
 | `v2-chassis-*.jpg` | https://drive.google.com/file/d/1DSDDPnvuS9_KyFwt1rEXlqGeaNej8uOG/view |
