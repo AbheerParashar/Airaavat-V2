@@ -62,10 +62,10 @@ The estimated 15–20 km/h from the second V2 trial is **consistent** with this 
 | --- | --- | --- | --- |
 | V1 trials | ~16.8 V nominal | ~8–12 km/h | Estimated |
 | V2 trial 2, 7 Oct 2026 | 16.4 V | ~15–20 km/h, with rear-wheel drift | Estimated |
-| V2 measured run | _fill in_ | _fill in_ | Measured |
+| V2 measured run | — | Pending (timed 10 m run planned) | Measured |
 
 ### How to measure speed
-Marked **10 m** on the ground, filmed a full-throttle run through it, and read the time from the video:
+Mark **10 m** on the ground, film a full-throttle run through it, and read the time from the video:
 
 ```
 Speed (km/h) = 36 / time (s)
