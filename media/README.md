@@ -1,16 +1,9 @@
 # 📸 Media
 
-Suggested contents:
-
 | File / folder | What to put here |
 | --- | --- |
-| `v2-ground-trial-2026-10-07.md` | https://www.instagram.com/reel/DeMhHxaPINf |
-| `v2-chassis-*.jpg` | Fabrication photos: drivetrain on the plywood, wheels fitted |
-| `v2-electronics-*.mp4` | TX and RX boards, wiring |
-| `v1-*.jpg` | Airaavat-V1 photos and earlier trial links |
-| `logbook-scans/` | Photos of key handwritten logbook pages: drawings, calculations, wiring sketches |
-
-Tips:
-- Keep each image under about 1 MB (compress phone photos) so the repo stays fast.
-- For long videos, upload to YouTube or LinkedIn and link them here instead of committing large files.
-- Name files with dates, for example `2026-10-07-first-ground-trial.jpg`.
+| `v2-ground-trial-2026-10-07.md` | https://drive.google.com/file/d/1QRCBFcqSwdifOWkJ_7g2vigKBfFnSC9H/view |
+| `v2-chassis-*.jpg` | https://drive.google.com/file/d/1DSDDPnvuS9_KyFwt1rEXlqGeaNej8uOG/view |
+| `v2-electronics-*.mp4` | https://drive.google.com/file/d/1bGe4oVh5DUAOqoKMvE2OnaDDUZok-ctb/view |
+| `v1-*.jpg` | https://drive.google.com/file/d/1gV1h5qYiknShmPxmCoaLPKeFRJbFTL5w/view |
+| `logbook-scans/` | https://drive.google.com/file/d/10TbniN784dZL7cTZX2MVMiaOBvDbJyK9/view |
