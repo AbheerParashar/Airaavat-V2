@@ -4,7 +4,7 @@ Suggested contents:
 
 | File / folder | What to put here |
 | --- | --- |
-| `v2-ground-trial-2026-10-07.md` | Links to the ground-trial video (Instagram, LinkedIn, YouTube) |
+| `v2-ground-trial-2026-10-07.md` | (https://www.instagram.com/reel/DeMhHxaPINf) |
 | `v2-chassis-*.jpg` | Fabrication photos: drivetrain on the plywood, wheels fitted |
 | `v2-electronics-*.jpg` | TX and RX boards, wiring |
 | `v1-*.jpg` | Airaavat-V1 photos and earlier trial links |
