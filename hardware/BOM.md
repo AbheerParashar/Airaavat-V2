@@ -45,5 +45,5 @@ Quantities are for the complete rover and transmitter as tested on 7 October 202
 | 3S BMS | 1 | Pack protection |
 
 ## Known issues with current parts
-- The **Li-ion cells in both packs are low grade** and near end of life. They sag under load. Replacement with genuine cells is the top item in Phase 1 funding ([`../docs/roadmap.md`](../docs/roadmap.md)).
+- The **Li-ion cells in both packs are low grade** and near end of life. They sag under load. Replacing them with graded, IR-matched 21700 cells is Milestone 1 of Phase 1 funding ([`../docs/roadmap.md`](../docs/roadmap.md)).
 - Several modules have been through heavy testing since V1 and are worn. Spares are planned.

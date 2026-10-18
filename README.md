@@ -4,8 +4,9 @@
 
 > **7 October 2026:** Airaavat-V2 completed its **first wireless ground trial**, driving under its own power through a radio link and firmware built during the week of 1–7 October.
 
-📹 **Ground-trial video:** [First wireless trial, 7 Oct 2026](https://drive.google.com/file/d/1QRCBFcqSwdifOWkJ_7g2vigKBfFnSC9H/view)
-<!-- Replace the line above with a direct link to the ground-trial reel or LinkedIn post. -->
+📹 **Ground-trial footage:** [Raw, unedited trials, 7 Oct 2026 (Instagram)](https://www.instagram.com/reel/DebHqPeTG6g/) · [Project status update (LinkedIn)](https://lnkd.in/p/dG7HBqwb)
+
+💰 **Phase 1 funding is open:** Milestone 1, ₹15,000, to rebuild every battery pack properly. [Budget and UPI →]([PUBLIC PAGE LINK])
 
 ⬅️ **Previous version:** [Airaavat-V1](https://github.com/AbheerParashar/Airaavat-V1)
 
@@ -19,6 +20,7 @@
 | V2 chassis, drivetrain, steering | ✅ As-built, 1–4 October 2026 |
 | V2 TX/RX firmware (deadband, ramp, failsafe) | ✅ As-built and ground-tested, 7 October 2026 |
 | V2 sensor fusion and telemetry (ESP32) | 🔧 In development, started October 2026 |
+| Phase 1 funding: power, tools and spares | 🟡 Open, Milestone 1 of 3 · [details](docs/roadmap.md) · [ledger](LEDGER.md) |
 | GarudAshwa (UGV + UAV launch deck) | 🗺️ Planned |
 
 ### ⚠️ How to read this repository
@@ -119,7 +121,7 @@ Airaavat-V1 ──► Airaavat-V2 ──► V2 sensor fusion + telemetry ──�
                      ✅                  🔧                          🗺️               recovers a UAV) 🗺️
 ```
 
-Phases and funding: [`docs/roadmap.md`](docs/roadmap.md)
+Phases and funding: [`docs/roadmap.md`](docs/roadmap.md) · Money in and out: [`LEDGER.md`](LEDGER.md)
 
 ---
 
@@ -128,6 +130,7 @@ Phases and funding: [`docs/roadmap.md`](docs/roadmap.md)
 ```
 Airaavat-V2/
 ├── README.md
+├── LEDGER.md                            Phase 1 contributions and purchases
 ├── src/
 │   ├── airaavat_tx/airaavat_tx.ino      Transmitter firmware
 │   ├── airaavat_rx/airaavat_rx.ino      Receiver (rover) firmware
@@ -142,7 +145,8 @@ Airaavat-V2/
 │   ├── design-decisions.md              Why chain drive, RWD and Ackermann
 │   └── roadmap.md                       Phases and milestones
 ├── logbook/
-│   └── logbook-template.md              Daily engineering logbook format
+│   ├── README.md                        Logbook index
+│   └── Project_Airaavat_V1_Documentation.pdf   Scanned V1 handwritten logbook
 └── media/                               Photos, scans and video links
 ```
 

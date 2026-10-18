@@ -22,18 +22,40 @@ Components owned: ESP32, ESP32-CAM, MPU-6050 (IMU), HMC5883L (magnetometer), NEO
 
 ## Phase 1 funding: power, tools and spares
 
-What the rover needs to run reliably and be built properly.
+What the rover needs to run reliably and be built properly. Funded in three milestones, one after another. **Phase 1 total: ₹32,400.**
+
+📄 **Campaign page (full itemised budget and UPI):** [PUBLIC PAGE LINK]
+
+### Milestone 1: build the packs the right way (₹15,000) · funding now
 
 | Item | Purpose |
 | --- | --- |
-| 34× genuine Samsung 18650 cells (2500 mAh+) | New 4S4P rover pack, 3S3P transmitter pack, 3S3P backup pack |
-| 1× 4S and 2× 3S BMS (20–40 A) | Pack protection |
-| 4S and 3S Li-ion chargers (5 A) | Proper charging |
-| Li-ion spot welder | Safe pack building (soldering damages cells) |
-| Temperature-controlled soldering station and gear | Reliable wiring |
-| Spare TX/RX set: Arduino UNOs, nRF24L01+PA/LNA, KY-023 joysticks, LM2596 bucks | Modules worn out from testing |
+| 34× second-life LG/BAK 21700 NMC cells (~4,200–4,500 mAh, graded and IR-matched, LithiumworkX) + pure nickel strip | New 4S4P rover pack, 3S3P transmitter pack, 3S3P backup pack |
+| AWithZ UK1 battery spot welder | Safe pack building (soldering damages cells) |
+| 2× 4S 40A and 3× 3S 40A BMS with balancing | Pack protection, with spares |
+| 4× ZB2L3 capacity tester with load resistors | Test every cell before it goes into a pack |
+| 21700 barley-paper rings, cell spacers, goggles and gloves | Insulation, rigidity, safety |
 
-_Itemised costs to be added in the campaign budget._
+### Milestone 2: charge, protect and measure (₹8,200)
+
+| Item | Purpose |
+| --- | --- |
+| 4S Li-ion charger, 16.8 V 5 A | Proper charging of the ~17 Ah rover pack |
+| 150 A watt meter and power analyser | Measure the RS-775's real current draw |
+| Amass XT90-S anti-spark connectors, ATC fuse holder and fuses | Main disconnect and main fuse |
+| Yihua 926LED-III soldering station, chisel tip, solder, flux | Reliable wiring |
+| Wiring kit (12 AWG / 22 AWG silicone wire, heat-shrink, ferrules, XT60s) | Rewire the rover properly |
+
+### Milestone 3: keep the build moving (₹9,200)
+
+| Item | Purpose |
+| --- | --- |
+| 3S Li-ion charger, 12.6 V 5 A | Charging the transmitter and backup packs |
+| Spare TX/RX set: 2× Arduino UNO, 4× nRF24L01+PA/LNA, 4× KY-023, 4× LM2596 | Modules worn out from testing |
+| Bosch GWS 600 angle grinder and discs | Cutting brackets, axles and stock |
+| 13 mm plywood, MS angle, aluminium flat bar, fasteners | Modular, bolted chassis for the next build |
+
+Every contribution and every bill will be recorded in a ledger in this repository. At the supplier's request, the per-cell price is not published; the cells and nickel strip appear as one line.
 
 ## Phase 2 funding: structure and mobility
 
