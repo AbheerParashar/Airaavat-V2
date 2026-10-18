@@ -24,7 +24,7 @@ Components owned: ESP32, ESP32-CAM, MPU-6050 (IMU), HMC5883L (magnetometer), NEO
 
 What the rover needs to run reliably and be built properly. Funded in three milestones, one after another. **Phase 1 total: ₹32,400.**
 
-📄 **Campaign page (full itemised budget and UPI):** [PUBLIC PAGE LINK]
+📄 **Campaign page (full itemised budget and UPI):** https://claude.ai/artifact/WNasbuVM9mPWcAJvxugBxs
 
 ### Milestone 1: build the packs the right way (₹15,000) · funding now
 
