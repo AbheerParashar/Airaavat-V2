@@ -2,7 +2,7 @@
 
 Every contribution and every purchase for Phase 1 is recorded here. Bills are added to a `ledger/bills/` folder in this repository as they come in.
 
-📄 Campaign page (budget and UPI): [PUBLIC PAGE LINK]
+📄 Campaign page (budget and UPI): https://claude.ai/artifact/WNasbuVM9mPWcAJvxugBxs
 
 ## Progress
 
