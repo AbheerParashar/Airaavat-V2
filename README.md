@@ -6,7 +6,7 @@
 
 📹 **Ground-trial footage:** [Raw, unedited trials, 7 Oct 2026 (Instagram)](https://www.instagram.com/reel/DebHqPeTG6g/) · [Project status update (LinkedIn)](https://lnkd.in/p/dG7HBqwb)
 
-💰 **Phase 1 funding is open:** Milestone 1, ₹15,000, to rebuild every battery pack properly. [Budget and UPI →]([PUBLIC PAGE LINK])
+💰 **Phase 1 funding is open:** Milestone 1, ₹15,000, to rebuild every battery pack properly. [Budget and UPI →](https://claude.ai/artifact/WNasbuVM9mPWcAJvxugBxs)
 
 ⬅️ **Previous version:** [Airaavat-V1](https://github.com/AbheerParashar/Airaavat-V1)
 
